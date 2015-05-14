@@ -1,4 +1,6 @@
 # demo_git
-Une démo de git
+Une dÃ©mo de git
 
-Une d�mo de git qui se passe bien!
+Une démo de git qui se passe bien!
+
+Et maintenant on modifie depuis github.
